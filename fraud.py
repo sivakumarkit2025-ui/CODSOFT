@@ -29,8 +29,7 @@ from imblearn.over_sampling      import SMOTE
 # https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 # Then place it in the same folder as this script.
 
-df = pd.read_csv("creditcard.csv")
-
+df = pd.read_csv("C:\\Users\\ADMIN\\Downloads\\creditcard.csv")
 print("=" * 55)
 print("  DATASET OVERVIEW")
 print("=" * 55)
